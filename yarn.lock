@@ -4352,14 +4352,14 @@ __metadata:
   linkType: hard
 
 "eslint-plugin-flowtype@npm:^5.2.0":
-  version: 5.2.0
-  resolution: "eslint-plugin-flowtype@npm:5.2.0"
+  version: 5.3.1
+  resolution: "eslint-plugin-flowtype@npm:5.3.1"
   dependencies:
     lodash: ^4.17.15
     string-natural-compare: ^3.0.1
   peerDependencies:
     eslint: ^7.1.0
-  checksum: bf70a9bb38b60deb93b1ab14e2516709de912ea02d05ea531e8e1b3e5d56fa58ba893720081e36bffe498055de49868e7052a09468759592ed35ba253e0e40da
+  checksum: 26fa069853cd99c62ab0b7055aae1e3354d0e4b17016b9e16a434dd02ded32f0074a5934a88ac2b14b5723b8b704138bc1ececcfb8f20a4051ab4b7332f24e13
   languageName: node
   linkType: hard
 
@@ -11275,8 +11275,8 @@ __metadata:
   linkType: hard
 
 "stylelint@npm:^13.6.1":
-  version: 13.10.0
-  resolution: "stylelint@npm:13.10.0"
+  version: 13.11.0
+  resolution: "stylelint@npm:13.11.0"
   dependencies:
     "@stylelint/postcss-css-in-js": ^0.37.2
     "@stylelint/postcss-markdown": ^0.36.2
@@ -11328,7 +11328,7 @@ __metadata:
     write-file-atomic: ^3.0.3
   bin:
     stylelint: bin/stylelint.js
-  checksum: 311de30f0f0b0161abfe9ef3298c7601c53943a5cba198f401bc575986f99c336d15dfc81c2f34bc68f275dd01389d4763c5f887760346d4c385e3e478def287
+  checksum: ea646e0cc8940b14b984fa0b6286a0653d4af46af394a457dbe4afe376ceeda44a4f869c2addff1b73758d58d5547922a63d63ae23d55edd130ed9e3b7012d05
   languageName: node
   linkType: hard
 
